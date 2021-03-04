@@ -1,0 +1,24 @@
+html {
+	background-image: url("https://www.itl.cat/pngfile/big/61-617878_simple-world-of-warcraft-wallpapers-photo-with-wow.jpg"); 
+ 	background-size: cover;
+ 	background-repeat: no-repeat;
+ 	display: inline-block;
+ 	width: 100%;
+}
+
+body {
+	display: inline-block;
+	
+}
+
+th {
+	font-size: 50px;
+	font-family: georgia;
+	color: #142d8c;
+}
+
+td {
+	font-size: 30px;
+	color: #ffda35;
+	font-family: garamond;
+}

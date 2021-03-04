@@ -1,0 +1,34 @@
+html {
+	background-image: url("https://blznews.akamaized.net/images/backgrounds/blizzardApp/blizzardApp_background_warcraft3-fd747ce150da4ecfc6c0ddacc6f43e22a822b3f22d8d2a80645a39f6ca037c4da4aa2c03c76794b327da2c412588c112579099602cc9b5e8eedc22d150fb08d3.jpg"); 
+ 	background-size: cover;
+ 	background-repeat: no-repeat;
+ 	display: inline-block;
+ 	height: 100%;
+ 	width: 100%;
+}
+
+.addons_title {
+	text-align: center;
+	font-family: garamond;
+	font-size: 45px;
+	font-weight: bolder;
+	text-decoration: underline;
+}
+table {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+th {
+	font-size: 40px;
+	font-family: garamond;
+	font-weight: bold;
+	border-style: solid;
+	padding: 20px;
+}
+
+td {
+	font-size: 25px;
+	font-family: georgia;
+	color: #ffda35;
+}
