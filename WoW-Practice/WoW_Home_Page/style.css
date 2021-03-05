@@ -1,3 +1,5 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css");
+
 html {
 	background-image: url("https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/FJPT5455KR5K1589912863345.jpg"); 
  	background-size: cover;
@@ -29,7 +31,7 @@ body {
 	font-family: georgia; 
 	color: #1f2f31;
 	background-image: linear-gradient(#a35331,#ec9b65);
-	height: auto;
+	height: 425px;
 	width: auto;
 }
 
@@ -39,12 +41,20 @@ body {
 	font-family: garamond;
 }
 
-a:link {
+a.nav:link {
   color: #c9784c;
 }
 
-a:visited {
+a.nav:visited {
   color: #c9784c;
+}
+
+a.free_trial:link {
+	color: #602f22;
+}
+
+a.free_trial:visited {
+	color: #602f22;
 }
 
 .login {
@@ -94,6 +104,8 @@ h2 {
 .contact {
 	text-align: right;
 	padding-right: 15px;
+	color: #c9784c;
+	margin-top: 225px;
 }
 
 

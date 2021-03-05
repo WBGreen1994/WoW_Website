@@ -1,3 +1,5 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css");
+
 html {
 	background-image: url("https://www.itl.cat/pngfile/big/61-617878_simple-world-of-warcraft-wallpapers-photo-with-wow.jpg"); 
  	background-size: cover;
@@ -21,4 +23,19 @@ td {
 	font-size: 30px;
 	color: #ffda35;
 	font-family: garamond;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+a:link {
+  color: #142d8c;
+}
+
+a:visited {
+  color: #142d8c;
+}
+
+.home_button {
+	text-align: left;
+	font-size: 20px;
 }
