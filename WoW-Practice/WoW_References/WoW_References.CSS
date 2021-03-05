@@ -1,23 +1,26 @@
+/* Include the CSS for Bootstrap Fonts */
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css");
+
 html {
-	background-image: url("https://blznews.akamaized.net/images/backgrounds/blizzardApp/blizzardApp_background_wow-e09aa3a683075d28d96e7536da0967dde3c254aa444754baff18c2f845da0102a484f6e61fbb41e321942ef5d9709cdfb5d2744039343d242ce8a94ad559c77d.jpg"); 
- 	background-size: cover;
- 	background-repeat: no-repeat;
- 	display: inline-block;
- 	height: 100%;
- 	width: 100%;
+    background-image: url("https://blznews.akamaized.net/images/backgrounds/blizzardApp/blizzardApp_background_wow-e09aa3a683075d28d96e7536da0967dde3c254aa444754baff18c2f845da0102a484f6e61fbb41e321942ef5d9709cdfb5d2744039343d242ce8a94ad559c77d.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 100%;
+    width: 100%;
 }
 
 .references_title {
-	text-align: center;
-	font-family: garmond;
-	font-size: 45px;
-	font-weight: bolder;
-	text-decoration: underline;
+    text-align: center;
+    font-family: garmond;
+    font-size: 45px;
+    font-weight: bolder;
+    text-decoration: underline;
 }
 
 body {
-	font-family: georgia;
-	font-size: 38px;
+    font-family: georgia;
+    font-size: 38px;
 }
 
 a:link {
@@ -26,5 +29,10 @@ a:link {
 
 a:visited {
   color: #c9784c;
+}
+
+.home_button {
+	text-align: left;
+	font-size: 20px;
 }
 
